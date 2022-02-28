@@ -26,48 +26,48 @@
     <message>
         <location filename="../actioneditor.ui" line="74"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Syöttö</translation>
     </message>
     <message>
         <location filename="../actioneditor.ui" line="86"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulostulo</translation>
     </message>
     <message>
         <location filename="../actioneditor.cpp" line="41"/>
         <source>New action</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi toiminto</translation>
     </message>
     <message>
         <location filename="../actioneditor.cpp" line="52"/>
         <source>The quick brown fox jumps over the lazy dog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nopea ruskea kettu hyppää laiskan koiran ylitse.</translation>
     </message>
     <message>
         <location filename="../actioneditor.cpp" line="64"/>
         <location filename="../actioneditor.cpp" line="133"/>
         <source>Status: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tila: </translation>
     </message>
     <message>
         <location filename="../actioneditor.cpp" line="91"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje</translation>
     </message>
     <message>
         <location filename="../actioneditor.cpp" line="117"/>
         <source>Status: Evaluating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tila: Arvioidaan...</translation>
     </message>
     <message>
         <location filename="../actioneditor.cpp" line="133"/>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Onnistui</translation>
     </message>
     <message>
         <location filename="../actioneditor.cpp" line="216"/>
         <source>Writing the action file failed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Toimintotiedoston kirjoittaminen epäonnistui: </translation>
     </message>
 </context>
 <context>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../actionlist.cpp" line="131"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="131"/>
@@ -85,47 +85,47 @@
     <message>
         <location filename="../actionlist.cpp" line="139"/>
         <source>Set shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta pikanäppäin</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="152"/>
         <source>Remove shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista pikanäppäin</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="160"/>
         <source>Hide from menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Piilota valikosta</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="168"/>
         <source>Show in menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä valikossa</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="179"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="181"/>
         <source>Are you sure you want to delete the action &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa toiminnon &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="199"/>
         <source>Failed to delete the file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoston &apos;%1&apos; poistaminen epäonnistui.</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="239"/>
         <source>Built-in actions cannot be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisäisiä toimintoja ei voi muokata.</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="244"/>
         <source>There are errors in the action script.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toiminnon koodissa on virheitä.</translation>
     </message>
 </context>
 <context>
@@ -133,12 +133,12 @@
     <message>
         <location filename="../delaydialog.ui" line="20"/>
         <source>Text expansion delay (in ms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstin laajennusviive (ms)</translation>
     </message>
     <message>
         <location filename="../delaydialog.ui" line="60"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
 </context>
 <context>
@@ -146,62 +146,62 @@
     <message>
         <location filename="../historyitemview.cpp" line="100"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikavalikko</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="104"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Liitä</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="105"/>
         <source>Plain Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelkkä teksti</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="106"/>
         <source>Type Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita tekstinä</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="110"/>
         <source>Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa...</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="119"/>
         <source>As Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvana</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="120"/>
         <source>As File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostona</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="125"/>
         <source>Release lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Vapauta lukko</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="129"/>
         <source>Keep forever</source>
-        <translation type="unfinished"></translation>
+        <translation>Säilytä ikuisesti</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="145"/>
         <source>Added to snippets &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisätty katkelmiin &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="186"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="187"/>
         <source>Remove all</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kaikki</translation>
     </message>
 </context>
 <context>
@@ -209,12 +209,12 @@
     <message>
         <location filename="../licensedialog.ui" line="14"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisenssi</translation>
     </message>
     <message>
         <location filename="../licensedialog.ui" line="28"/>
         <source>Rainclip is in trial mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclip on kokeilutilassa.</translation>
     </message>
     <message>
         <location filename="../licensedialog.ui" line="35"/>
@@ -224,22 +224,22 @@
     <message>
         <location filename="../licensedialog.ui" line="62"/>
         <source>Purchase license</source>
-        <translation type="unfinished"></translation>
+        <translation>Osta lisenssi</translation>
     </message>
     <message>
         <location filename="../licensedialog.ui" line="71"/>
         <source>If you already have a license you can paste it below to activate Rainclip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos sinulla on jo lisenssi, voit aktivoida Rainclipin liittämällä sen alle.</translation>
     </message>
     <message>
         <location filename="../licensedialog.ui" line="89"/>
         <source>Paste the license here</source>
-        <translation type="unfinished"></translation>
+        <translation>Liitä lisenssi tähän</translation>
     </message>
     <message>
         <location filename="../licensedialog.ui" line="96"/>
         <source>Status: Please enter the license</source>
-        <translation type="unfinished"></translation>
+        <translation>Tila: Anna lisenssi</translation>
     </message>
 </context>
 <context>
@@ -279,22 +279,22 @@
         <location filename="../actionhelpers.cpp" line="51"/>
         <location filename="../actionhelpers.cpp" line="72"/>
         <source>Failure at line %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe rivillä %1: %2</translation>
     </message>
     <message>
         <location filename="../actionhelpers.cpp" line="55"/>
         <source>The action script is not a function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toiminnon ohjelma ei ole funktio.</translation>
     </message>
     <message>
         <location filename="../actionhelpers.cpp" line="117"/>
         <source>Failed to parse json: </source>
-        <translation type="unfinished"></translation>
+        <translation>Json-tiedoston jäsentäminen epäonnistui: </translation>
     </message>
     <message>
         <location filename="../actionhelpers.cpp" line="120"/>
         <source>Failed to open: </source>
-        <translation type="unfinished"></translation>
+        <translation>Avaaminen epäonnistui: </translation>
     </message>
 </context>
 <context>
@@ -304,98 +304,98 @@
         <location filename="../settingsdialog.ui" line="869"/>
         <location filename="../settingsdialog.ui" line="1434"/>
         <source>Settings</source>
-        <translation type="unfinished">Asetukset</translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="91"/>
         <source>General</source>
-        <translation type="unfinished">Yleiset</translation>
+        <translation>Yleiset</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="140"/>
         <location filename="../settingsdialog.ui" line="927"/>
         <source>Snippets</source>
-        <translation type="unfinished"></translation>
+        <translation>Katkelmat</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="186"/>
         <source>Sync</source>
-        <translation type="unfinished">Synkronointi</translation>
+        <translation>Synkronointi</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="232"/>
         <source>Applications</source>
-        <translation type="unfinished">Ohjelmat</translation>
+        <translation>Sovelukset</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="278"/>
         <source>Actions</source>
-        <translation type="unfinished">Toiminnot</translation>
+        <translation>Toiminnot</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="324"/>
         <source>About</source>
-        <translation type="unfinished">Tiedot</translation>
+        <translation>Tiedot</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="399"/>
         <source>Application</source>
-        <translation type="unfinished">Ohjelma</translation>
+        <translation>Sovellus</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="405"/>
         <source>Start automatically</source>
-        <translation type="unfinished">Käynnistä automaattisesti</translation>
+        <translation>Käynnistä automaattisesti</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="430"/>
         <source>Open Rainclip</source>
-        <translation type="unfinished">Avaa Rainclip</translation>
+        <translation>Avaa Rainclip</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="457"/>
         <source>Paste as plain text</source>
-        <translation type="unfinished">Liitä pelkkänä tekstinä</translation>
+        <translation>Liitä pelkkänä tekstinä</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="450"/>
         <source>Paste next from history</source>
-        <translation type="unfinished">Liitä seuraava historiasta</translation>
+        <translation>Liitä seuraava historiasta</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="468"/>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kieli:</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="496"/>
         <source>Theme</source>
-        <translation type="unfinished">Teema</translation>
+        <translation>Teema</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="502"/>
         <source>Light</source>
-        <translation type="unfinished">Vaalea</translation>
+        <translation>Vaalea</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="512"/>
         <source>Dark</source>
-        <translation type="unfinished">Tumma</translation>
+        <translation>Tumma</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="519"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automaattinen</translation>
+        <translation>Automaattinen</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="529"/>
         <source>History</source>
-        <translation type="unfinished">Historia</translation>
+        <translation>Historia</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="537"/>
         <source>Keep</source>
-        <translation type="unfinished">Pidä</translation>
+        <translation>Pidä</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="550"/>
@@ -406,22 +406,22 @@
     <message>
         <location filename="../settingsdialog.ui" line="560"/>
         <source>Items in the history</source>
-        <translation type="unfinished">leikettä historiassa</translation>
+        <translation>leikettä historiassa</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="584"/>
         <source>Ignore text smaller than</source>
-        <translation type="unfinished">Jätä huomioimatta tekstit joissa on alle</translation>
+        <translation>Jätä huomioimatta tekstit joissa on alle</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="613"/>
         <source>characters</source>
-        <translation type="unfinished">merkkiä</translation>
+        <translation>merkkiä</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="637"/>
         <source>Ignore text larger than</source>
-        <translation type="unfinished">Jätä huomioimatta tekstit jotka ovat yli</translation>
+        <translation>Jätä huomioimatta tekstit jotka ovat yli</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="650"/>
@@ -431,154 +431,154 @@
     <message>
         <location filename="../settingsdialog.ui" line="660"/>
         <source>kB</source>
-        <translation type="unfinished">kt</translation>
+        <translation>kt</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="684"/>
         <source>Add images to history</source>
-        <translation type="unfinished">Lisää kuvat historiaan</translation>
+        <translation>Lisää kuvat historiaan</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="691"/>
         <source>Paste from history as plain text</source>
-        <translation type="unfinished">Liitä historiasta pelkkänä tekstinä</translation>
+        <translation>Liitä historiasta pelkkänä tekstinä</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="706"/>
         <source>Debugging</source>
-        <translation type="unfinished">Debuggaus</translation>
+        <translation>Debuggaus</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="717"/>
         <source>Send crash dump files for analysis</source>
-        <translation type="unfinished">Lähetä ohjelman kaatumisesta näyte analysoitavaksi</translation>
+        <translation>Lähetä ohjelman kaatumisesta näyte analysoitavaksi</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="728"/>
         <source>Write debug log</source>
-        <translation type="unfinished">Kirjoita debug-lokia</translation>
+        <translation>Kirjoita debug-lokia</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="735"/>
         <source>Show File</source>
-        <translation type="unfinished">Näytä tiedosto</translation>
+        <translation>Näytä tiedosto</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="759"/>
         <source>Clipboard monitor</source>
-        <translation type="unfinished">Leikepöydän seuranta</translation>
+        <translation>Leikepöydän seuranta</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="766"/>
         <source>Show</source>
-        <translation type="unfinished">Näytä</translation>
+        <translation>Näytä</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="805"/>
         <source>Crash test:</source>
-        <translation type="unfinished">Kaatumistesti:</translation>
+        <translation>Kaatumistesti:</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="812"/>
         <source>Crash</source>
-        <translation type="unfinished">Kaada ohjelma</translation>
+        <translation>Kaada ohjelma</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="875"/>
         <source>Only expand keyword after space is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Laajenna avainsana vain välilyönnin painamisen jälkeen</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="885"/>
         <source>Import/Export Snippets</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo/vie katkelmia</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="897"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="904"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="963"/>
         <source>Add new group</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää uusi ryhmä</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="989"/>
         <source>Remove group</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista ryhmä</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1015"/>
         <source>Edit group</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa ryhmää</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1041"/>
         <location filename="../settingsdialog.ui" line="1207"/>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä ylös</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1067"/>
         <location filename="../settingsdialog.ui" line="1233"/>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä alas</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1126"/>
         <source>Add new snippet</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää uusi katkelma</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1155"/>
         <source>Remove snippet</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista katkelma</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1181"/>
         <source>Edit snippet</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa katkelmaa</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1259"/>
         <source>Move snippet to other group</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä katkelma toiseen ryhmään</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1303"/>
         <source>Snippet Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Katkelman teksti</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1316"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Actions&lt;/span&gt; can be included with: &lt;span style=&quot; font-style:italic;&quot;&gt;{Action name}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Current clipboard content can be inserted with: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Texts from history can be inserted with: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP:N} &lt;/span&gt;(e.g. {CLIP:2} will pick the second item from the history)&lt;/li&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;It is also possible to use regexp to match the clipping: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP:\d.*}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Toimintoja&lt;/span&gt; voi listätä: &lt;span style=&quot; font-style:italic;&quot;&gt;{Toiminnon nimi}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Leikepöydän sisällön voi lisätä: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Tekstejä historiasta voi lisätä: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP:N} &lt;/span&gt;(esim. {CLIP:2} lisää historian toisen rivin tekstin)&lt;/li&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Myös regexp lausekkeella voidaan etsiä tekstejä historiasta: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP:\d.*}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1418"/>
         <source>The content is not visible in the list</source>
-        <translation type="unfinished">Sisältö ei näy listassa</translation>
+        <translation>Sisältöä ei näytetä listassa</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1453"/>
         <source>Set Cursor</source>
-        <translation type="unfinished">Aseta sarkain</translation>
+        <translation>Aseta sarkain</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1506"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;There are no applications.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sovelluksia ei ole.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1549"/>
         <source>Add...</source>
-        <translation type="unfinished">Lisää...</translation>
+        <translation>Lisää...</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1613"/>
@@ -588,27 +588,27 @@
     <message>
         <location filename="../settingsdialog.ui" line="1648"/>
         <source>Release notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Julkaisutiedot</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1667"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisenssi</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1687"/>
         <source>Update check</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitysten tarkistus</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1705"/>
         <source>Check for update</source>
-        <translation type="unfinished">Tarkista päivitykset</translation>
+        <translation>Tarkista päivitykset</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="1730"/>
         <source>Update now</source>
-        <translation type="unfinished">Päivitä nyt</translation>
+        <translation>Päivitä nyt</translation>
     </message>
 </context>
 <context>
@@ -616,7 +616,7 @@
     <message>
         <location filename="../shortcutdialog.ui" line="20"/>
         <source>Enter shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna pikanäppäin</translation>
     </message>
 </context>
 <context>
@@ -624,7 +624,7 @@
     <message>
         <location filename="../synclocalfolder.cpp" line="25"/>
         <source>Select sync target folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse synkronoinnin kohdekansio</translation>
     </message>
 </context>
 <context>
@@ -632,22 +632,22 @@
     <message>
         <location filename="../synclogdialog.ui" line="20"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Suodatin</translation>
     </message>
     <message>
         <location filename="../synclogdialog.ui" line="41"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie</translation>
     </message>
     <message>
         <location filename="../synclogdialog.ui" line="48"/>
         <source>Clear Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä loki</translation>
     </message>
     <message>
         <location filename="../synclogdialog.ui" line="74"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -655,107 +655,107 @@
     <message>
         <location filename="../syncsettings.ui" line="63"/>
         <source>Select where do you want to sync the data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse, mihin haluat synkronoida tiedot:</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="75"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Google Drive Sync&lt;/span&gt; stores the data to the application specific folder in your personal Google account.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Google Drive Sync&lt;/span&gt; tallentaa tiedot henkilökohtaisen Google-tilisi sovelluskohtaiseen kansioon.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="78"/>
         <source>Sync with Google Drive</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronoi Google Driven kanssa</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="100"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Local Folder Sync&lt;/span&gt; makes it possible to share the data between computers e.g. via Dropbox or network drive.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Local Folder Sync&lt;/span&gt; mahdollistaa tietojen jakamisen tietokoneiden välillä esim. Dropboxin tai verkkolevyn avulla.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="103"/>
         <source>Sync with Local Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronoi paikallisen kansion kanssa</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="211"/>
         <source>Stop synchronizing the data</source>
-        <translation type="unfinished"></translation>
+        <translation>Lopeta tietojen synkronointi</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="236"/>
         <source>Sync</source>
-        <translation type="unfinished">Synkronointi</translation>
+        <translation>Synkronointi</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="276"/>
         <source>Sync Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronoi nyt</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="352"/>
         <source>Sync status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronoinnin tila:</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="378"/>
         <source>Settings</source>
-        <translation type="unfinished">Asetukset</translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="384"/>
         <source>Sync clipboard history</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronoi leikepöydän historia</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="391"/>
         <source>Sync snippets</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronoi katkelmat</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="398"/>
         <source>Sync actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronoi toiminnot</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="408"/>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Salaus</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="420"/>
         <source>Encrypt data</source>
-        <translation type="unfinished"></translation>
+        <translation>Salaa tiedot</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="427"/>
         <source>Passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Salauslause:</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="440"/>
         <source>Sync Target Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohdekansio</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="456"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Selaa</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="472"/>
         <source>Connected Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhdistetyt asiakkaat</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="478"/>
         <source>No connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei yhteyttä</translation>
     </message>
     <message>
         <location filename="../syncsettings.ui" line="532"/>
         <source>Revoke Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Peru todennus</translation>
     </message>
 </context>
 </TS>
