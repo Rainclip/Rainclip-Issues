@@ -6,22 +6,22 @@
     <message>
         <location filename="../actioneditor.ui" line="20"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Yksityiskohdat</translation>
     </message>
     <message>
         <location filename="../actioneditor.ui" line="29"/>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsikko:</translation>
     </message>
     <message>
         <location filename="../actioneditor.ui" line="39"/>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selitys:</translation>
     </message>
     <message>
         <location filename="../actioneditor.ui" line="52"/>
         <source>Extra Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>LIsäparametrit</translation>
     </message>
     <message>
         <location filename="../actioneditor.ui" line="74"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="../actionlist.cpp" line="131"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editoi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="139"/>
