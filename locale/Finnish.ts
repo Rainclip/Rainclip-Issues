@@ -133,57 +133,57 @@
     <message>
         <location filename="../applicationslist.cpp" line="107"/>
         <source>Exclude from history</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje pois historiasta</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="114"/>
         <source>Ignore images</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohita kuvat</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="121"/>
         <source>Plain text only</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain pelkkä teksti</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="128"/>
         <source>Don&apos;t expand keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Älä laajenna avainsanoja</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="135"/>
         <source>Set text expansion delay...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta tekstin laajennusviive...</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="144"/>
         <source>Remove</source>
-        <translation type="unfinished">Poista</translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="174"/>
         <source>Don&apos;t add copied items to history</source>
-        <translation type="unfinished"></translation>
+        <translation>Älä lisää kopioituja kohteita historiaan</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="181"/>
         <source>Never copy images to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Älä koskaan kopioi kuvia leikepöydälle</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="188"/>
         <source>Always copy as plain text only</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi aina vain pelkkänä tekstinä</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="195"/>
         <source>Do not expand keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Älä laajenna avainsanoja</translation>
     </message>
     <message>
         <location filename="../applicationslist.cpp" line="202"/>
         <source>Delay text expansion for %1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>Viive tekstin laajennukseen %1 ms</translation>
     </message>
 </context>
 <context>
@@ -201,7 +201,7 @@
     <message>
         <location filename="../delaydialog.cpp" line="6"/>
         <source>Set delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta viive</translation>
     </message>
 </context>
 <context>
@@ -209,7 +209,7 @@
     <message>
         <location filename="../editdialog.cpp" line="11"/>
         <source>Edit clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa leikkausta</translation>
     </message>
 </context>
 <context>
@@ -217,12 +217,12 @@
     <message>
         <location filename="../historyitemmodel.cpp" line="519"/>
         <source>Failed to parse the clippings file: </source>
-        <translation type="unfinished"></translation>
+        <translation>Leiketiedoston jäsentäminen epäonnistui: </translation>
     </message>
     <message>
         <location filename="../historyitemmodel.cpp" line="565"/>
         <source>Writing the clippings file failed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Leiketiedoston kirjoittaminen epäonnistui: </translation>
     </message>
 </context>
 <context>
@@ -275,12 +275,12 @@
     <message>
         <location filename="../historyitemview.cpp" line="133"/>
         <source>Add to snippets</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää katkelmiin</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="136"/>
         <source>Add to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="145"/>
@@ -291,7 +291,8 @@
         <location filename="../historyitemview.cpp" line="179"/>
         <source>Failed to run action &apos;%1&apos;
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Toiminnon &apos;%1&apos; suorittaminen epäonnistui
+%2</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="186"/>
@@ -323,57 +324,57 @@
     <message>
         <location filename="../licensedialog.cpp" line="112"/>
         <source>Please enter the license</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna lisenssi</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="124"/>
         <source>Invalid hash</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen tunniste</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="135"/>
         <source>Invalid signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen allekirjoitus</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="144"/>
         <source>Status: Valid license</source>
-        <translation type="unfinished"></translation>
+        <translation>Tila: Voimassa oleva lisenssi</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="147"/>
         <source>Status: </source>
-        <translation type="unfinished">Tila: </translation>
+        <translation>Tila: </translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="168"/>
         <source>Rainclip is licensed</source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclip on lisensoitu</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="169"/>
         <source>Thank you, %1, for supporting Rainclip&apos;s development.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiitos, %1, että tuet Rainclipin kehitystä.</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="180"/>
         <source>Rainclip evaluation has expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclip:n kokeilu on vanhentunut</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="181"/>
         <source>The evaluation period has been expired. Paste functionality has been disabled. You need to purchase a license to be able to continue to use the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokeiluaika on umpeutunut. &quot;Liitä&quot; toiminnallisuus on poistettu käytöstä. Sinun tulee hankkia lisenssi jotta voit jatkaa sovelluksen käyttöä.</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="185"/>
         <source>Rainclip is in trial mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclip on kokeilutilassa</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="186"/>
         <source>You have still %1 days left of the trial after which pasting functionality will be disabled until a license is purchased.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinulla on vielä %1 päivää kokeilujaksoa jäljellä, minkä jälkeen liittäminen poistetaan käytöstä, kunnes lisenssi on ostettu.</translation>
     </message>
     <message>
         <location filename="../licensedialog.cpp" line="190"/>
@@ -383,7 +384,7 @@
     <message>
         <location filename="../licensedialog.cpp" line="222"/>
         <source>Unable to get the license code from the reply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisenssikoodia ei voi saada vastauksesta.</translation>
     </message>
     <message>
         <location filename="../licensedialog.ui" line="87"/>
@@ -418,12 +419,14 @@
         <source>The evaluation period of Rainclip has been expired. Copying anything to the clipboard cannot be done until a valid license is purchased.
 
 Thank you for evaluating the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclipin kokeiluaika on umpeutunut. Leikepöydälle ei voi kopioida mitään ennen kuin lisenssi on hankittu.
+
+Kiitos kun kokeilit sovellusta.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="542"/>
         <source>The application is not trusted. You are not able to paste to other applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovellukseen ei luoteta. Et pysty liittämään toisiin sovelluksiin.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="629"/>
@@ -435,28 +438,31 @@ Thank you for evaluating the application.</source>
         <source>Update for Rainclip is available:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclip-päivitys on saatavilla:
+
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="901"/>
         <source>Name: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nimi: </translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="902"/>
         <source>Version: </source>
-        <translation type="unfinished"></translation>
+        <translation>Versio: </translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="908"/>
         <source>
 Do you want to upgrade now?</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Haluatko päivittää nyt?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="976"/>
         <source>The evaluation period has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokeiluaika on päättynyt.</translation>
     </message>
 </context>
 <context>
@@ -493,75 +499,78 @@ Do you want to upgrade now?</source>
     <message>
         <location filename="../main.cpp" line="89"/>
         <source>Rainclip is already running!</source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclip on jo käynnissä!</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="109"/>
         <source>Show</source>
-        <translation type="unfinished">Näytä</translation>
+        <translation>Näytä</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="113"/>
         <source>Settings</source>
-        <translation type="unfinished">Asetukset</translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="114"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Lopeta</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="61"/>
         <source>A few seconds ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Muutama sekunti sitten</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="63"/>
         <source>A minute ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuutti sitten</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="65"/>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 minuuttia sitten</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="67"/>
         <source>An hour ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Tunti sitten</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="69"/>
         <source>%1 hours ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tuntia sitten</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="71"/>
         <source>A day ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivä sitten</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="73"/>
         <source>%1 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 päivää sitten</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="175"/>
         <source>Failed to run action &apos;%1&apos;
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Toiminnon &apos;%1&apos; suorittaminen epäonnistui
+%2</translation>
     </message>
     <message>
         <location filename="../mac/helpers.mm" line="111"/>
         <source>Turn on accessibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Ota esteettömyys käyttöön</translation>
     </message>
     <message>
         <location filename="../mac/helpers.mm" line="111"/>
         <source>Rainclip needs accessibility permission to be able to the paste operation. Please select Rainclip checkbox in Security &amp; Privacy &gt; Accessibility.
 
 Do you want to do this now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclip tarvitsee esteettömyysluvan, jotta se voi liittää toisiin sovelluksiin. Valitse &quot;Rainclip&quot; kohteessa Security &amp; Privacy &gt; Accessibility.
+
+Haluatko tehdä tämän nyt?</translation>
     </message>
 </context>
 <context>
@@ -569,7 +578,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../releasenotesdialog.cpp" line="11"/>
         <source>Release Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Julkaisutiedot</translation>
     </message>
 </context>
 <context>
@@ -888,111 +897,112 @@ Do you want to do this now?</source>
     <message>
         <location filename="../settingsdialog.cpp" line="260"/>
         <source>Version: %1.%2&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Versio: %1.%2&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="261"/>
         <source>Build on %1&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Käännetty %1&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="266"/>
         <source>Licensed to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Lisensoitu: </translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="271"/>
         <source>Feature requests and bug reports can be sent to:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ominaisuuspyynnöt ja virheraportit voi lähettää osoitteeseen:&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="301"/>
         <location filename="../settingsdialog.cpp" line="348"/>
         <source>Hide content</source>
-        <translation type="unfinished"></translation>
+        <translation>Piilota sisältö</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="307"/>
         <location filename="../settingsdialog.cpp" line="352"/>
         <source>Set shortcut</source>
-        <translation type="unfinished">Aseta pikanäppäin</translation>
+        <translation>Aseta pikanäppäin</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="320"/>
         <location filename="../settingsdialog.cpp" line="358"/>
         <source>Set expand keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta laajennus avainsana</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="323"/>
         <source>Set keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta avainsana</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="323"/>
         <source>Give the keyword which will be
 automatically replaced with the snippet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna avainsana, joka korvataan 
+automaattisesti koodinpätkällä.</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="344"/>
         <source>Show content</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä sisältö</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="354"/>
         <source>Clear shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä pikanäppäin</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="360"/>
         <source>Clear expand keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä laajennus avainsana</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="480"/>
         <source>Save snippets</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna katkelmat</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="492"/>
         <source>Export error</source>
-        <translation type="unfinished"></translation>
+        <translation>Vientivirhe</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="492"/>
         <source>Failed to export the snippets to </source>
-        <translation type="unfinished"></translation>
+        <translation>Katkelmien vienti epäonnistui kohteeseen </translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="502"/>
         <source>Load snippets</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa katkelmat</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="514"/>
         <source>Import error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuontivirhe</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="514"/>
         <source>Failed to import the snippets from </source>
-        <translation type="unfinished"></translation>
+        <translation>Katkelmien tuonti epäonnistui kohteesta </translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="930"/>
         <source>Update check failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitystarkistus epäonnistui</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="933"/>
         <source>Updated version is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitetty versio on saatavilla</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="937"/>
         <source>No update available</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitystä ei ole saatavilla</translation>
     </message>
 </context>
 <context>
@@ -1005,7 +1015,7 @@ automatically replaced with the snippet.</source>
     <message>
         <location filename="../shortcutdialog.cpp" line="6"/>
         <source>Set shortcut</source>
-        <translation type="unfinished">Aseta pikanäppäin</translation>
+        <translation>Aseta pikanäppäin</translation>
     </message>
 </context>
 <context>
@@ -1013,12 +1023,12 @@ automatically replaced with the snippet.</source>
     <message>
         <location filename="../snippetmodel.cpp" line="239"/>
         <source>Failed to parse the snippets file: </source>
-        <translation type="unfinished"></translation>
+        <translation>Leiketiedoston jäsentäminen epäonnistui: </translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="285"/>
         <source>Writing the snippets file failed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Katkelmatiedoston kirjoittaminen epäonnistui: </translation>
     </message>
 </context>
 <context>
@@ -1054,17 +1064,17 @@ automatically replaced with the snippet.</source>
     <message>
         <location filename="../synclogdialog.cpp" line="52"/>
         <source>Save sync log</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna synkronointiloki</translation>
     </message>
     <message>
         <location filename="../synclogdialog.cpp" line="66"/>
         <source>Save error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallennusvirhe</translation>
     </message>
     <message>
         <location filename="../synclogdialog.cpp" line="66"/>
         <source>Failed to save the sync log to </source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronointilokin tallennus epäonnistui kohteeseen </translation>
     </message>
 </context>
 <context>
@@ -1179,22 +1189,24 @@ automatically replaced with the snippet.</source>
         <source>This is the initial sync. Do you want to do full two-way sync for the snippets or do you want to sync them one way from the server. You can also disable the snippet sync.
 
 Note that if you choose to do one-way sync all your local snippets will be replaced with the content from the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä on ensimmäinen synkronointi. Haluatko tehdä täydellisen kaksisuuntaisen synkronoinnin katkelmille vai haluatko synkroniida ne yhteen suuntaa palvelimelta? Voit myös ottaa katkelmien synkroninnin pois päältä.
+
+Huomioi että jos teet yhdensuuntaisen synkronoinnin niin kaikki sinun paikalliset katkelmat ylikirjoitetaan palvelimen sisällöllä.</translation>
     </message>
     <message>
         <location filename="../syncsettings.cpp" line="172"/>
         <source>Full sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Täysi synkronointi</translation>
     </message>
     <message>
         <location filename="../syncsettings.cpp" line="173"/>
         <source>One-way sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Yksisuuntainen synkronointi</translation>
     </message>
     <message>
         <location filename="../syncsettings.cpp" line="174"/>
         <source>Disable snippet sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista katkelmien synkronointi käytöstä</translation>
     </message>
 </context>
 </TS>
