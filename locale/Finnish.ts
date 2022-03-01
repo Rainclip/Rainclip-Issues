@@ -470,7 +470,7 @@ Haluatko päivittää nyt?</translation>
     <message>
         <location filename="../monitor.ui" line="158"/>
         <source>Rainclip Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Rainclip Seuranta</translation>
     </message>
 </context>
 <context>
