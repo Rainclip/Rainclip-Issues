@@ -80,127 +80,127 @@
     <message>
         <location filename="../actionlist.cpp" line="44"/>
         <source>Converts the text to lowercase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuntaa tekstin pieniksi kirjaimiksi.</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="45"/>
         <source>To uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Isoiksi kirjaimiksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="46"/>
         <source>Converts the text to uppercase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuntaa tekstin isoiksi kirjaimiksi.</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="47"/>
         <source>JSON Pretty Print</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON nätti-tuloste</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="48"/>
         <source>Formats JSON to be more human readable</source>
-        <translation type="unfinished"></translation>
+        <translation>Muotoilee JSON:n luettavammaksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="49"/>
         <source>Stript HTML tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista HTML-tunnisteet</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="50"/>
         <source>Removes HTML tags from the text</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistaa HTML- tunnisteet tekstistä</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="51"/>
         <source>Current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämänhetkinen aika</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="52"/>
         <source>Writes the current date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoittaa nykyisen päivämäärän ja kellonajan</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="53"/>
         <source>Generate password</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo salasana</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="54"/>
         <source>Creates a random password</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo satunnaisen salasanan</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="55"/>
         <source>Hex dump</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex-muunnos</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="56"/>
         <source>Creates hex dump of UTF-8 encoded string</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuntaa UTF- 8- koodatun merkkijonon Hex-muotoon</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="57"/>
         <source>Date to Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivämäärä arvoksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="58"/>
         <source>Converts the date and time to value</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuntaa päivämäärän ja kellonajan arvoksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="59"/>
         <source>Value to Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Arvo päivämääräksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="60"/>
         <source>Converts the value to date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuntaa arvon päivämääräksi ja kellonajaksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="61"/>
         <source>Create GUID</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo GUID</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="62"/>
         <source>Creates a globally uniqued identifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo maailmanlaajuisesti yksilöllisen tunnisteen</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="63"/>
         <source>Word wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Rivitys</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="64"/>
         <source>Wraps long lines to be less than given length</source>
-        <translation type="unfinished"></translation>
+        <translation>Rivittää tekstin annettua pituutta pienemmiksi riveiksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="65"/>
         <source>Split lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaa rivit</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="66"/>
         <source>Splits the clipping from the separator that is most times in the text</source>
-        <translation type="unfinished"></translation>
+        <translation>Jakaa tekstin erottimesta, joka esiintyy useimmiten tekstissä</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="67"/>
         <source>Base64 encode</source>
-        <translation type="unfinished"></translation>
+        <translation>Koodaa Base64:ksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="68"/>
         <source>Encodes the text to base64</source>
-        <translation type="unfinished"></translation>
+        <translation>Koodaa tekstin Base64: ksi</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="164"/>
@@ -420,7 +420,7 @@
     <message>
         <location filename="../historyitemview.cpp" line="156"/>
         <source>Run action</source>
-        <translation type="unfinished"></translation>
+        <translation>Suorita toiminto</translation>
     </message>
     <message>
         <location filename="../historyitemview.cpp" line="179"/>
@@ -595,7 +595,7 @@ Haluatko päivittää nyt?</translation>
     <message>
         <location filename="../monitor.ui" line="158"/>
         <source>Clipboard Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Leikepöydän seuranta</translation>
     </message>
 </context>
 <context>
@@ -1171,87 +1171,87 @@ automaattisesti katkelmalla.</translation>
     <message>
         <location filename="../snippetmodel.cpp" line="44"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="45"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Sähköposti</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="46"/>
         <source>Messaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Viestintä</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="47"/>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Mallit</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="48"/>
         <source>Emoji</source>
-        <translation type="unfinished"></translation>
+        <translation>Emoji</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="49"/>
         <source>Text snippets can be stored to here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katkelmat voidaan tallentaa tähän.</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="50"/>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Leikepöytä</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="51"/>
         <source>Current clipboard content: {CLIP}</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyinen leikepöydän sisältö: {CLIP}</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="52"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Aika</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="53"/>
         <source>Snippets can also execute actions: {Current time}</source>
-        <translation type="unfinished"></translation>
+        <translation>Katkelmat voivat myös suorittaa toimintoja: {Current time}</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="54"/>
         <source>Get back</source>
-        <translation type="unfinished"></translation>
+        <translation>Takaisin</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="55"/>
         <source>Thank you for your email. I&apos;ll get back to you as soon as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiitos sähköpostiviestistäsi. Palaan takaisin heti kun ehdin.</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="56"/>
         <source>Travelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Matkustelu</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="57"/>
         <source>I&apos;m traveling and can&apos;t answer to email at the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Matkustan enkä voi vastata sähköpostiin tällä hetkellä.</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="58"/>
         <source>Delayed reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Viivästynyt vastaus</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="59"/>
         <source>Sorry for the delay but your email was moved to spam folder and I did not notice it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pahoittelemme viivästystä, mutta sähköpostisi siirrettiin roskapostikansioon, enkä huomannut sitä.</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="60"/>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Allekirjoitus</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="61"/>
@@ -1260,92 +1260,96 @@ automaattisesti katkelmalla.</translation>
 Regards,
 
 &lt;Your name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Toivottavasti tämä auttaa,
+
+Parhain terveisin,
+
+&lt;Your name&gt;</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="62"/>
         <source>Be right back</source>
-        <translation type="unfinished"></translation>
+        <translation>Palaan pian</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="63"/>
         <source>I need to go. Be right back.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minun on mentävä. Palaan pian.</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="64"/>
         <source>In a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouksessa</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="65"/>
         <source>I&apos;m in a meeting and can&apos;t chat at the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olen kokouksessa, enkä voi jutella juuri nyt.</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="66"/>
         <source>Google it</source>
-        <translation type="unfinished"></translation>
+        <translation>Googlaa se</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="67"/>
         <source>Let me google that for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna kun googlaan sen sinulle.</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="68"/>
         <source>Network problems</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkko-ongelmat</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="69"/>
         <source>Sorry but my network connection is really bad.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteeksi, mutta verkkoyhteyteni on todella huono.</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="70"/>
         <source>Pleading Face</source>
-        <translation type="unfinished"></translation>
+        <translation>Rukoilevat kasvot</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="71"/>
         <source>Red Heart</source>
-        <translation type="unfinished"></translation>
+        <translation>Punasydän</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="72"/>
         <source>Sparkles</source>
-        <translation type="unfinished"></translation>
+        <translation>Kimalteet</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="73"/>
         <source>Face with Tears of Joy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasvot ja ilon kyyneleet</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="74"/>
         <source>Smiling Face with Smiling Eyes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hymyilevät kasvot ja hymyilevät silmät</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="75"/>
         <source>Fire</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulipalo</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="76"/>
         <source>Thumbs Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Peukku ylös</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="77"/>
         <source>Smiling Face with Hearts</source>
-        <translation type="unfinished"></translation>
+        <translation>Hymyilevät kasvot ja sydämet</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="78"/>
         <source>Smiling Face with Heart-Eyes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hymyilevät kasvot ja sydänsilmät</translation>
     </message>
     <message>
         <location filename="../snippetmodel.cpp" line="277"/>
