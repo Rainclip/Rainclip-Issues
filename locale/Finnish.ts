@@ -26,7 +26,7 @@
     <message>
         <location filename="../actioneditor.ui" line="74"/>
         <source>Input</source>
-        <translation>Syöttö</translation>
+        <translation>Syöte</translation>
     </message>
     <message>
         <location filename="../actioneditor.ui" line="86"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="../actionlist.cpp" line="131"/>
         <source>Edit</source>
-        <translation>Editoi</translation>
+        <translation>Muokkaa</translation>
     </message>
     <message>
         <location filename="../actionlist.cpp" line="139"/>
@@ -942,7 +942,7 @@ Haluatko tehdä tämän nyt?</translation>
         <source>Give the keyword which will be
 automatically replaced with the snippet.</source>
         <translation>Anna avainsana, joka korvataan 
-automaattisesti koodinpätkällä.</translation>
+automaattisesti katkelmalla.</translation>
     </message>
     <message>
         <location filename="../settingsdialog.cpp" line="344"/>
