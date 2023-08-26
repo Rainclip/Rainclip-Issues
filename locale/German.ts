@@ -335,6 +335,19 @@
     </message>
 </context>
 <context>
+    <name>Downloader</name>
+    <message>
+        <location filename="../downloader.cpp" line="20"/>
+        <source>Downloading</source>
+        <translation type="unfinished">Heruntergeladen...</translation>
+    </message>
+    <message>
+        <location filename="../downloader.cpp" line="20"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
+    </message>
+</context>
+<context>
     <name>EditDialog</name>
     <message>
         <location filename="../editdialog.cpp" line="13"/>
@@ -345,12 +358,12 @@
 <context>
     <name>HistoryItemModel</name>
     <message>
-        <location filename="../historyitemmodel.cpp" line="529"/>
+        <location filename="../historyitemmodel.cpp" line="593"/>
         <source>Failed to parse the clippings file: </source>
         <translation>Die Ausschnittdatei konnte nicht analysiert werden: </translation>
     </message>
     <message>
-        <location filename="../historyitemmodel.cpp" line="575"/>
+        <location filename="../historyitemmodel.cpp" line="639"/>
         <source>Writing the clippings file failed: </source>
         <translation>Das Schreiben der Beschneidungsdatei ist fehlgeschlagen: </translation>
     </message>
@@ -358,86 +371,238 @@
 <context>
     <name>HistoryItemView</name>
     <message>
-        <location filename="../historyitemview.cpp" line="104"/>
+        <location filename="../historyitemview.cpp" line="126"/>
         <source>Context menu</source>
         <translation>Kontextmenü</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="108"/>
+        <location filename="../historyitemview.cpp" line="138"/>
+        <source>Paste selected</source>
+        <translation type="unfinished">Ausgewählte einfügen</translation>
+    </message>
+    <message>
+        <location filename="../historyitemview.cpp" line="139"/>
+        <source>Merge</source>
+        <translation type="unfinished">Zusammenführen</translation>
+    </message>
+    <message>
+        <location filename="../historyitemview.cpp" line="144"/>
+        <source>Reverse</source>
+        <translation type="unfinished">Umgekehrt</translation>
+    </message>
+    <message>
+        <location filename="../historyitemview.cpp" line="152"/>
+        <source>Remove selected</source>
+        <translation type="unfinished">Ausgewählte entfernen</translation>
+    </message>
+    <message>
+        <location filename="../historyitemview.cpp" line="156"/>
         <source>Paste</source>
         <translation>Einfügen</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="109"/>
+        <location filename="../historyitemview.cpp" line="157"/>
         <source>Plain Text</source>
         <translation>Klartext</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="110"/>
+        <location filename="../historyitemview.cpp" line="158"/>
         <source>Type Text</source>
         <translation>Typ Text</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="114"/>
+        <location filename="../historyitemview.cpp" line="162"/>
+        <location filename="../historyitemview.cpp" line="189"/>
         <source>Edit...</source>
         <translation>Bearbeiten...</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="123"/>
+        <location filename="../historyitemview.cpp" line="174"/>
+        <source>Paste as Image</source>
+        <translation type="unfinished">Als Bild einfügen</translation>
+    </message>
+    <message>
+        <location filename="../historyitemview.cpp" line="175"/>
+        <source>Paste as File</source>
+        <translation type="unfinished">Einfügen als</translation>
+    </message>
+    <message>
+        <location filename="../historyitemview.cpp" line="177"/>
+        <source>Extract texts</source>
+        <translation type="unfinished">Texte extrahieren</translation>
+    </message>
+    <message>
         <source>As Image</source>
-        <translation>Als Bild</translation>
+        <translation type="vanished">Als Bild</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="124"/>
         <source>As File</source>
-        <translation>Als Datei</translation>
+        <translation type="vanished">Als Datei</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="129"/>
+        <location filename="../historyitemview.cpp" line="213"/>
         <source>Release lock</source>
         <translation>Arretierung lösen</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="133"/>
+        <location filename="../historyitemview.cpp" line="217"/>
         <source>Keep forever</source>
         <translation>für immer speichern</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="137"/>
+        <location filename="../historyitemview.cpp" line="221"/>
         <source>Add to snippets</source>
         <translation>Zu den Schnipseln</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="140"/>
+        <location filename="../historyitemview.cpp" line="224"/>
         <source>Add to &apos;%1&apos;</source>
         <translation>Hinzufügen zu &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="149"/>
+        <location filename="../historyitemview.cpp" line="233"/>
         <source>Added to snippets &apos;%1&apos;</source>
         <translation>Zu den Ausschnitten „%1“ hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="160"/>
+        <location filename="../historyitemview.cpp" line="244"/>
         <source>Run action</source>
         <translation>Aktion ausführen</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="183"/>
+        <location filename="../historyitemview.cpp" line="267"/>
         <source>Failed to run action &apos;%1&apos;
 %2</source>
         <translation>Aktion „%1“ konnte nicht ausgeführt werden
 %2</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="190"/>
+        <location filename="../historyitemview.cpp" line="274"/>
         <source>Remove</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../historyitemview.cpp" line="191"/>
+        <location filename="../historyitemview.cpp" line="275"/>
         <source>Remove all</source>
         <translation>Alle entfernen</translation>
+    </message>
+</context>
+<context>
+    <name>ImageEditDialog</name>
+    <message>
+        <location filename="../imageeditdialog.ui" line="20"/>
+        <source>Edit Image</source>
+        <translation type="unfinished">Bild bearbeiten</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="90"/>
+        <location filename="../imageeditdialog.ui" line="93"/>
+        <source>Select</source>
+        <translation type="unfinished">Auswahlfeld</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="139"/>
+        <source>Draw arrows</source>
+        <translation type="unfinished">Pfeile zeichnen</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="145"/>
+        <source>Arrow</source>
+        <translation type="unfinished">Pfeil</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="194"/>
+        <source>Draw rectangles</source>
+        <translation type="unfinished">Rechtecke zeichnen</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="197"/>
+        <source>Rectangle</source>
+        <translation type="unfinished">Rechteck</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="243"/>
+        <source>Draw numbers</source>
+        <translation type="unfinished">Zeichnungsnummern</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="246"/>
+        <source>Numbers</source>
+        <translation type="unfinished">Zahlen</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="292"/>
+        <source>Tooltip</source>
+        <translation type="unfinished">Tooltipp</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="338"/>
+        <source>Highlight</source>
+        <translation type="unfinished">Markiert</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">Text</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="387"/>
+        <location filename="../imageeditdialog.ui" line="390"/>
+        <source>Crop</source>
+        <translation type="unfinished">Kultur</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="840"/>
+        <source>Undo</source>
+        <translation type="unfinished">Rückgängig</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="850"/>
+        <source>Ctrl+Z</source>
+        <translation type="unfinished">Ctrl+Z</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="872"/>
+        <source>Redo</source>
+        <translation type="unfinished">Wiederherstellen</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="882"/>
+        <source>Ctrl+Shift+Z</source>
+        <translation type="unfinished">Ctrl+Shift+Z</translation>
+    </message>
+    <message>
+        <location filename="../imageeditdialog.ui" line="904"/>
+        <source>Zoom:</source>
+        <translation type="unfinished">Zoom:</translation>
+    </message>
+</context>
+<context>
+    <name>ImageEditGraphicsView</name>
+    <message>
+        <location filename="../image-editor/imageeditgraphicsview.cpp" line="347"/>
+        <location filename="../image-editor/imageeditgraphicsview.cpp" line="377"/>
+        <source>Text</source>
+        <translation type="unfinished">Text</translation>
+    </message>
+    <message>
+        <location filename="../image-editor/imageeditgraphicsview.cpp" line="377"/>
+        <source>Enter the text</source>
+        <translation type="unfinished">Text eingeben</translation>
+    </message>
+    <message>
+        <location filename="../image-editor/imageeditgraphicsview.cpp" line="330"/>
+        <source>Edit</source>
+        <translation type="unfinished">Bearbeiten</translation>
+    </message>
+    <message>
+        <location filename="../image-editor/imageeditgraphicsview.cpp" line="337"/>
+        <source>Delete</source>
+        <translation type="unfinished">Löschen</translation>
+    </message>
+    <message>
+        <location filename="../image-editor/imageeditgraphicsview.cpp" line="347"/>
+        <source>Edit the text</source>
+        <translation type="unfinished">Bearbeiten Sie den Text.</translation>
     </message>
 </context>
 <context>
@@ -463,68 +628,73 @@
         <translation>Status: Bitte geben Sie die Lizenz ein</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="149"/>
+        <location filename="../licensedialog.cpp" line="160"/>
         <source>Please enter the license</source>
         <translation>Bitte geben Sie den Lizenzschlüssel ein</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="124"/>
+        <location filename="../licensedialog.cpp" line="128"/>
         <source>Invalid hash</source>
         <translation>Ungültiger Hash</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="135"/>
+        <location filename="../licensedialog.cpp" line="139"/>
         <source>Invalid signature</source>
         <translation>Ungültige Signatur</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="144"/>
+        <location filename="../licensedialog.cpp" line="147"/>
+        <source>Invalid data</source>
+        <translation type="unfinished">Ungültigen Daten</translation>
+    </message>
+    <message>
+        <location filename="../licensedialog.cpp" line="155"/>
         <source>Status: Valid license</source>
         <translation>Status: Gültige Lizenz</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="149"/>
-        <location filename="../licensedialog.cpp" line="152"/>
+        <location filename="../licensedialog.cpp" line="160"/>
+        <location filename="../licensedialog.cpp" line="163"/>
         <source>Status: </source>
         <translation>Status: </translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="175"/>
+        <location filename="../licensedialog.cpp" line="186"/>
         <source>Rainclip is licensed</source>
         <translation>Rainclip ist lizenziert</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="176"/>
+        <location filename="../licensedialog.cpp" line="187"/>
         <source>Thank you, %1, for supporting Rainclip&apos;s development.</source>
         <translation>Vielen Dank, %1, dass Sie Rainclips Entwicklung unterstützen.</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="187"/>
+        <location filename="../licensedialog.cpp" line="198"/>
         <source>Rainclip evaluation has expired</source>
         <translation>Die Rainclip-Auswertung ist abgelaufen</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="188"/>
+        <location filename="../licensedialog.cpp" line="199"/>
         <source>The evaluation period has been expired. Paste functionality has been disabled. You need to purchase a license to be able to continue to use the application.</source>
         <translation>Der Bewertungszeitraum ist abgelaufen. Die Funktion zum Einfügen wurde deaktiviert. Sie müssen eine Lizenz erwerben, um die Anwendung weiterhin verwenden zu können.</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="192"/>
+        <location filename="../licensedialog.cpp" line="203"/>
         <source>Rainclip is in trial mode</source>
         <translation>Rainclip ist im Testmodus</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="193"/>
+        <location filename="../licensedialog.cpp" line="204"/>
         <source>You have still %1 days left of the trial after which pasting functionality will be disabled until a license is purchased.</source>
         <translation>Sie haben noch %1 Tage von der Testversion übrig, nach denen die Einfügefunktion deaktiviert wird, bis eine Lizenz erworben wird.</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="197"/>
+        <location filename="../licensedialog.cpp" line="208"/>
         <source>If you already have a license you can paste it below to activate Rainclip.</source>
         <translation>Wenn Sie bereits eine Lizenz haben, können Sie diese unten einfügen, um Rainclip zu aktivieren.</translation>
     </message>
     <message>
-        <location filename="../licensedialog.cpp" line="229"/>
+        <location filename="../licensedialog.cpp" line="240"/>
         <source>Unable to get the license code from the reply.</source>
         <translation>Der Lizenzcode kann nicht aus der Antwort abgerufen werden.</translation>
     </message>
@@ -537,7 +707,7 @@
         <translation>Suche</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="276"/>
+        <location filename="../mainwindow.cpp" line="279"/>
         <source>The evaluation period of Rainclip has been expired. Copying anything to the clipboard cannot be done until a valid license is purchased.
 
 Thank you for evaluating the application.</source>
@@ -546,17 +716,17 @@ Thank you for evaluating the application.</source>
 Vielen Dank für die Bewertung der Bewerbung.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="549"/>
+        <location filename="../mainwindow.cpp" line="575"/>
         <source>The application is not trusted. You are not able to paste to other applications.</source>
         <translation>Die Anwendung ist nicht vertrauenswürdig. Sie können nicht in andere Anwendungen einfügen.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="639"/>
+        <location filename="../mainwindow.cpp" line="628"/>
         <source>History</source>
         <translation>Verlauf</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="915"/>
+        <location filename="../mainwindow.cpp" line="914"/>
         <source>Update for Rainclip is available:
 
 </source>
@@ -565,24 +735,24 @@ Vielen Dank für die Bewertung der Bewerbung.</translation>
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="917"/>
+        <location filename="../mainwindow.cpp" line="916"/>
         <source>Name: </source>
         <translation>Name: </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="918"/>
+        <location filename="../mainwindow.cpp" line="917"/>
         <source>Version: </source>
         <translation>Version: </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="924"/>
+        <location filename="../mainwindow.cpp" line="923"/>
         <source>
 Do you want to upgrade now?</source>
         <translation>
 Möchtest du aktualisieren?</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="993"/>
+        <location filename="../mainwindow.cpp" line="992"/>
         <source>The evaluation period has expired.</source>
         <translation>Der Bewertungszeitraum ist abgelaufen.</translation>
     </message>
@@ -627,22 +797,22 @@ Möchtest du aktualisieren?</translation>
         <translation>Öffnen fehlgeschlagen: </translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="84"/>
+        <location filename="../main.cpp" line="85"/>
         <source>Rainclip is already running!</source>
         <translation>Rainclip läuft bereits!</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="109"/>
+        <location filename="../main.cpp" line="110"/>
         <source>Show</source>
         <translation>Einblenden</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="113"/>
+        <location filename="../main.cpp" line="114"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="114"/>
+        <location filename="../main.cpp" line="115"/>
         <source>Quit</source>
         <translation>Abbrechen</translation>
     </message>
@@ -682,19 +852,19 @@ Möchtest du aktualisieren?</translation>
         <translation>Vor %1 Tagen</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="176"/>
+        <location filename="../utils.cpp" line="174"/>
         <source>Failed to run action &apos;%1&apos;
 %2</source>
         <translation>Aktion „%1“ konnte nicht ausgeführt werden
 %2</translation>
     </message>
     <message>
-        <location filename="../mac/helpers.mm" line="111"/>
+        <location filename="../mac/helpers.mm" line="113"/>
         <source>Turn on accessibility</source>
         <translation type="unfinished">Barrierefreiheit aktivieren</translation>
     </message>
     <message>
-        <location filename="../mac/helpers.mm" line="111"/>
+        <location filename="../mac/helpers.mm" line="113"/>
         <source>Rainclip needs accessibility permission to be able to the paste operation. Please select Rainclip checkbox in Security &amp; Privacy &gt; Accessibility.
 
 Do you want to do this now?</source>
@@ -702,26 +872,130 @@ Do you want to do this now?</source>
 
 Willst du es jetzt tun?</translation>
     </message>
+    <message>
+        <location filename="../ocr.cpp" line="51"/>
+        <location filename="../ocr.cpp" line="53"/>
+        <location filename="../ocr.cpp" line="67"/>
+        <location filename="../ocr.cpp" line="99"/>
+        <source>Extract texts</source>
+        <translation type="unfinished">Texte extrahieren</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="51"/>
+        <source>Unable to find any texts in the image.</source>
+        <translation type="unfinished">Es können keine Texte im Bild gefunden werden.</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="53"/>
+        <source>Failed to extract texts from the image.
+
+</source>
+        <translation type="unfinished">Fehler beim Extrahieren von Texten aus dem Bild.
+
+</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="69"/>
+        <location filename="../ocr.cpp" line="97"/>
+        <source>Rainclip requires a free tool called Tesseract OCR for the extract texts feature.</source>
+        <translation type="unfinished">Rainclip benötigt ein kostenloses Tool namens Tesseract OCR für die Funktion Text extrahieren.</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="77"/>
+        <source>Ok</source>
+        <translation type="unfinished">Ok</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="72"/>
+        <source>On Mac the tool is installed with Homebrew which you need to install first.</source>
+        <translation type="unfinished">Auf dem Mac wird das Tool mit Homebrew installiert, das Sie zuerst installieren müssen.</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="73"/>
+        <source>You can download it from here:</source>
+        <translation type="unfinished">Sie können ExecuteEncrypted von hier herunterladen.</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="84"/>
+        <source>Click &apos;Install&apos; to install the application automatically with Homebrew:</source>
+        <translation type="unfinished">Klicken Sie auf „Installieren“, um die Anwendung automatisch mit Homebrew zu installieren:</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="82"/>
+        <location filename="../ocr.cpp" line="102"/>
+        <source>You can download the tool from here:</source>
+        <translation type="unfinished">Sie können das Tool hier herunterladen:</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="86"/>
+        <source>Install</source>
+        <translation type="unfinished">Installiere</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="87"/>
+        <location filename="../ocr.cpp" line="105"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="90"/>
+        <location filename="../ocr.cpp" line="111"/>
+        <location filename="../ocr.cpp" line="127"/>
+        <location filename="../ocr.cpp" line="143"/>
+        <location filename="../ocr.cpp" line="155"/>
+        <source>Download failed</source>
+        <translation type="unfinished">Download fehlgeschlagen</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="90"/>
+        <source>Unable to install the application.</source>
+        <translation type="unfinished">Die Anwendung kann nicht installiert werden.</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="104"/>
+        <source>Download &amp;&amp; Install</source>
+        <translation type="unfinished">Download</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="111"/>
+        <source>Unable to download the file list from the website.</source>
+        <translation type="unfinished">Die Dateiliste kann nicht von der Website heruntergeladen werden.</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="127"/>
+        <source>Unable to find the Tesseract download link.</source>
+        <translation type="unfinished">Der Tesseract-Download-Link kann nicht gefunden werden.</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="143"/>
+        <source>Unable to download the installer.</source>
+        <translation type="unfinished">Das Installationsprogramm kann nicht heruntergeladen werden.</translation>
+    </message>
+    <message>
+        <location filename="../ocr.cpp" line="155"/>
+        <source>Unable to run the installer.</source>
+        <translation type="unfinished">Das Installationsprogramm kann nicht ausgeführt werden.</translation>
+    </message>
 </context>
 <context>
     <name>QPlatformTheme</name>
     <message>
-        <location filename="../mainwindow.cpp" line="50"/>
+        <location filename="../mainwindow.cpp" line="49"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="50"/>
+        <location filename="../mainwindow.cpp" line="49"/>
         <source>Save</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="50"/>
+        <location filename="../mainwindow.cpp" line="49"/>
         <source>Close</source>
         <translation>Schließen</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="51"/>
+        <location filename="../mainwindow.cpp" line="50"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
@@ -738,7 +1012,7 @@ Willst du es jetzt tun?</translation>
     <name>SettingsDialog</name>
     <message>
         <location filename="../settingsdialog.ui" line="14"/>
-        <location filename="../settingsdialog.ui" line="933"/>
+        <location filename="../settingsdialog.ui" line="977"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
@@ -749,13 +1023,13 @@ Willst du es jetzt tun?</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="140"/>
-        <location filename="../settingsdialog.ui" line="736"/>
+        <location filename="../settingsdialog.ui" line="743"/>
         <source>History</source>
         <translation>Verlauf</translation>
     </message>
     <message>
         <location filename="../settingsdialog.ui" line="186"/>
-        <location filename="../settingsdialog.ui" line="991"/>
+        <location filename="../settingsdialog.ui" line="1035"/>
         <source>Snippets</source>
         <translation>Snippets</translation>
     </message>
@@ -790,369 +1064,403 @@ Willst du es jetzt tun?</translation>
         <translation>Automatisch starten</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="473"/>
+        <location filename="../settingsdialog.ui" line="480"/>
         <source>Open Rainclip</source>
         <translation>Rainclip öffnen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="507"/>
+        <location filename="../settingsdialog.ui" line="514"/>
         <source>Paste next from history</source>
         <translation>Als nächstes aus der Historie einfügen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="490"/>
+        <location filename="../settingsdialog.ui" line="497"/>
         <source>Paste as plain text</source>
         <translation>Um als Klartext einzufügen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="518"/>
+        <location filename="../settingsdialog.ui" line="458"/>
+        <source>Always open on mouse location</source>
+        <translation type="unfinished">Immer am Mausstandort öffnen</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.ui" line="525"/>
         <source>Language:</source>
         <translation>Sprache:</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="546"/>
+        <location filename="../settingsdialog.ui" line="553"/>
         <source>Theme</source>
         <translation>Thema</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="552"/>
+        <location filename="../settingsdialog.ui" line="559"/>
         <source>Light</source>
         <translation>Light</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="562"/>
+        <location filename="../settingsdialog.ui" line="569"/>
         <source>Dark</source>
         <translation>Dunkel</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="569"/>
+        <location filename="../settingsdialog.ui" line="576"/>
         <source>Automatic</source>
         <translation>Automatisch</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="582"/>
+        <location filename="../settingsdialog.ui" line="589"/>
         <source>Debugging</source>
         <translation>Fehlersuche</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="596"/>
+        <location filename="../settingsdialog.ui" line="603"/>
         <source>Send crash dump files for analysis</source>
         <translation>Crash-Dump-Dateien zur Analyse senden</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="607"/>
+        <location filename="../settingsdialog.ui" line="614"/>
         <source>Write debug log</source>
         <translation>Debug-Protokoll schreiben</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="614"/>
+        <location filename="../settingsdialog.ui" line="621"/>
         <source>Show File</source>
         <translation>Datei anzeigen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="638"/>
+        <location filename="../settingsdialog.ui" line="645"/>
         <source>Clipboard monitor</source>
         <translation>Zwischenablage-Monitor</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="645"/>
+        <location filename="../settingsdialog.ui" line="652"/>
         <source>Show</source>
         <translation>Einblenden</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="684"/>
+        <location filename="../settingsdialog.ui" line="691"/>
         <source>Crash test:</source>
         <translation>Crashtest:</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="691"/>
+        <location filename="../settingsdialog.ui" line="698"/>
         <source>Crash</source>
         <translation>Aufprall (Unfall)</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="744"/>
+        <location filename="../settingsdialog.ui" line="751"/>
         <source>Keep</source>
         <translation>Halten</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="757"/>
+        <location filename="../settingsdialog.ui" line="764"/>
         <source>009</source>
         <translation>009</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="767"/>
+        <location filename="../settingsdialog.ui" line="774"/>
         <source>Items in the history</source>
         <translation>Elemente in der Historie</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="791"/>
+        <location filename="../settingsdialog.ui" line="798"/>
         <source>Ignore text smaller than</source>
         <translation>Ignorieren Sie Text kleiner als</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="820"/>
+        <location filename="../settingsdialog.ui" line="827"/>
         <source>characters</source>
         <translation>Zeichen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="844"/>
+        <location filename="../settingsdialog.ui" line="851"/>
         <source>Ignore text larger than</source>
         <translation>Ignorieren Sie Text größer als</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="867"/>
+        <location filename="../settingsdialog.ui" line="874"/>
         <source>kB</source>
         <translation>KB</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="891"/>
+        <location filename="../settingsdialog.ui" line="901"/>
+        <source>Initial selection:</source>
+        <translation type="unfinished">Initiale Auswahl:</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.ui" line="928"/>
         <source>Add images to history</source>
         <translation>Bilder zum Verlauf hinzufügen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="898"/>
+        <location filename="../settingsdialog.ui" line="935"/>
         <source>Paste from history as plain text</source>
         <translation>Aus Historie als Klartext einfügen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="905"/>
+        <location filename="../settingsdialog.ui" line="942"/>
         <source>Clear history on exit</source>
         <translation type="unfinished">Pfadverlauf beim Beenden löschen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="939"/>
+        <source>Play sound on copy</source>
+        <translation type="obsolete">Ton beim Kopieren abspielen</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.ui" line="949"/>
+        <source>Show compact List</source>
+        <translation type="unfinished">Kompakte Liste</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.ui" line="983"/>
         <source>Only expand keyword after space is pressed</source>
         <translation>Schlüsselwort nur nach Drücken der Leertaste erweitern</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="949"/>
+        <location filename="../settingsdialog.ui" line="993"/>
         <source>Import/Export Snippets</source>
         <translation>Snippets importieren/exportieren</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="961"/>
+        <location filename="../settingsdialog.ui" line="1005"/>
         <source>Import</source>
         <translation>Importieren</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="968"/>
+        <location filename="../settingsdialog.ui" line="1012"/>
         <source>Export</source>
         <translation>Exportieren</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1027"/>
+        <location filename="../settingsdialog.ui" line="1071"/>
         <source>Add new group</source>
         <translation>Neue Gruppe hinzufügen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1053"/>
+        <location filename="../settingsdialog.ui" line="1097"/>
         <source>Remove group</source>
         <translation>Gruppe entfernen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1079"/>
+        <location filename="../settingsdialog.ui" line="1123"/>
         <source>Edit group</source>
         <translation>Gruppe bearbeiten</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1105"/>
-        <location filename="../settingsdialog.ui" line="1271"/>
+        <location filename="../settingsdialog.ui" line="1149"/>
+        <location filename="../settingsdialog.ui" line="1315"/>
         <source>Move up</source>
         <translation>Nach oben bewegen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1131"/>
-        <location filename="../settingsdialog.ui" line="1297"/>
+        <location filename="../settingsdialog.ui" line="1175"/>
+        <location filename="../settingsdialog.ui" line="1341"/>
         <source>Move down</source>
         <translation>Nach unten verschieben</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1190"/>
+        <location filename="../settingsdialog.ui" line="1234"/>
         <source>Add new snippet</source>
         <translation>Neuen Ausschnitt hinzufügen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1219"/>
+        <location filename="../settingsdialog.ui" line="1263"/>
         <source>Remove snippet</source>
         <translation>Snippet entfernen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1245"/>
+        <location filename="../settingsdialog.ui" line="1289"/>
         <source>Edit snippet</source>
         <translation>Snippet bearbeiten</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1323"/>
+        <location filename="../settingsdialog.ui" line="1367"/>
         <source>Move snippet to other group</source>
         <translation>Snippet in eine andere Gruppe verschieben</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1367"/>
+        <location filename="../settingsdialog.ui" line="1411"/>
         <source>Snippet Text</source>
         <translation>Textausschnitt</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1380"/>
+        <location filename="../settingsdialog.ui" line="1424"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Actions&lt;/span&gt; can be included with: &lt;span style=&quot; font-style:italic;&quot;&gt;{Action name}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Current clipboard content can be inserted with: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Texts from history can be inserted with: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP:N} &lt;/span&gt;(e.g. {CLIP:2} will pick the second item from the history)&lt;/li&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;It is also possible to use regexp to match the clipping: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP:\d.*}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Aktionen&lt;/span&gt; können mit eingebunden werden: &lt;span style=&quot; font-style:italic;&quot;&gt;{Aktionsname}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Aktueller Inhalt der Zwischenablage kann mit eingefügt werden: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Texte aus der Geschichte können mit eingefügt werden: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP:N} &lt;/span&gt;(z.B. {CLIP:2} wählt das zweite Element aus dem Verlauf aus)&lt;/li&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Es ist auch möglich, Regexp zu verwenden, um das Clipping anzupassen: &lt;span style=&quot; font-style:italic;&quot;&gt;{CLIP:\d.*}&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1482"/>
+        <location filename="../settingsdialog.ui" line="1526"/>
         <source>The content is not visible in the list</source>
         <translation>Der Inhalt ist in der Liste nicht sichtbar</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1498"/>
+        <location filename="../settingsdialog.ui" line="1542"/>
         <source>Options</source>
         <translation type="unfinished">Optionen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1517"/>
+        <location filename="../settingsdialog.ui" line="1561"/>
         <source>Set Cursor</source>
         <translation>Cursor setzen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1570"/>
+        <location filename="../settingsdialog.ui" line="1614"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;There are no applications.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Es liegen keine Bewerbungen vor.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1613"/>
+        <location filename="../settingsdialog.ui" line="1657"/>
         <source>Add...</source>
         <translation>Hinzufügen...</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1712"/>
+        <location filename="../settingsdialog.ui" line="1756"/>
         <source>Release notes</source>
         <translation>Versionsinformationen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1731"/>
+        <location filename="../settingsdialog.ui" line="1775"/>
         <source>License</source>
         <translation>Lizenz</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1751"/>
+        <location filename="../settingsdialog.ui" line="1795"/>
         <source>Update check</source>
         <translation>Auf Updates prüfen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1769"/>
+        <location filename="../settingsdialog.ui" line="1813"/>
         <source>Check for update</source>
         <translation>Nach Aktualisierungen suchen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.ui" line="1794"/>
+        <location filename="../settingsdialog.ui" line="1838"/>
         <source>Update now</source>
         <translation>Jetzt aktualisieren</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="266"/>
+        <location filename="../settingsdialog.cpp" line="182"/>
+        <source>First</source>
+        <translation type="unfinished">Vorname</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="183"/>
+        <source>Second</source>
+        <translation type="unfinished">Zweiter</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="184"/>
+        <source>Next</source>
+        <translation type="unfinished">Weiter</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.cpp" line="269"/>
         <source>Version: %1.%2&lt;br&gt;</source>
         <translation>Version: %1.%2&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="267"/>
+        <location filename="../settingsdialog.cpp" line="270"/>
         <source>Build on %1&lt;br&gt;&lt;br&gt;</source>
         <translation>Bauen auf %1&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="272"/>
+        <location filename="../settingsdialog.cpp" line="275"/>
         <source>Licensed to: </source>
         <translation>Lizenziert an: </translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="277"/>
+        <location filename="../settingsdialog.cpp" line="280"/>
         <source>Feature requests and bug reports can be sent to:&lt;br&gt;</source>
         <translation>Feature Requests und Bug Reports können an folgende Adresse gesendet werden:&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="309"/>
-        <location filename="../settingsdialog.cpp" line="358"/>
+        <location filename="../settingsdialog.cpp" line="312"/>
+        <location filename="../settingsdialog.cpp" line="361"/>
         <source>Hide content</source>
         <translation>Inhalt ausblenden</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="315"/>
-        <location filename="../settingsdialog.cpp" line="362"/>
+        <location filename="../settingsdialog.cpp" line="318"/>
+        <location filename="../settingsdialog.cpp" line="365"/>
         <source>Set shortcut</source>
         <translation>Shortcut festlegen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="328"/>
-        <location filename="../settingsdialog.cpp" line="368"/>
+        <location filename="../settingsdialog.cpp" line="331"/>
+        <location filename="../settingsdialog.cpp" line="371"/>
         <source>Set expand keyword</source>
         <translation>Expand Keyword festlegen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="331"/>
+        <location filename="../settingsdialog.cpp" line="334"/>
         <source>Set keyword</source>
         <translation>Schlüsselwort festlegen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="331"/>
+        <location filename="../settingsdialog.cpp" line="334"/>
         <source>Give the keyword which will be
 automatically replaced with the snippet.</source>
         <translation>Geben Sie das Schlüsselwort an, das
 automatisch durch das Snippet ersetzt.</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="354"/>
+        <location filename="../settingsdialog.cpp" line="357"/>
         <source>Show content</source>
         <translation>Inhalt anzeigen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="364"/>
+        <location filename="../settingsdialog.cpp" line="367"/>
         <source>Clear shortcut</source>
         <translation>Abkürzung löschen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="370"/>
+        <location filename="../settingsdialog.cpp" line="373"/>
         <source>Clear expand keyword</source>
         <translation>Expand Keyword löschen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="494"/>
+        <location filename="../settingsdialog.cpp" line="488"/>
         <source>Save snippets</source>
         <translation>Speicher Schnipsel</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="506"/>
+        <location filename="../settingsdialog.cpp" line="500"/>
         <source>Export error</source>
         <translation>Fehler exportieren</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="506"/>
+        <location filename="../settingsdialog.cpp" line="500"/>
         <source>Failed to export the snippets to </source>
         <translation>Fehler beim Exportieren der Snippets nach </translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="516"/>
+        <location filename="../settingsdialog.cpp" line="510"/>
         <source>Load snippets</source>
         <translation>Snippets laden</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="528"/>
+        <location filename="../settingsdialog.cpp" line="522"/>
         <source>Import error</source>
         <translation>Importfehler</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="528"/>
+        <location filename="../settingsdialog.cpp" line="522"/>
         <source>Failed to import the snippets from </source>
         <translation>Fehler beim Importieren der Snippets von </translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="943"/>
+        <location filename="../settingsdialog.cpp" line="940"/>
         <source>Update check failed</source>
         <translation>Update-Check fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="946"/>
+        <location filename="../settingsdialog.cpp" line="943"/>
         <source>Updated version is available</source>
         <translation>Aktualisierte Version ist verfügbar</translation>
     </message>
     <message>
-        <location filename="../settingsdialog.cpp" line="950"/>
+        <location filename="../settingsdialog.cpp" line="947"/>
         <source>No update available</source>
         <translation>Kein Update verfügbar</translation>
     </message>
@@ -1440,133 +1748,162 @@ Mit freundlichen Grüßen
         <translation>Mit lokalem Ordner synchronisieren</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="218"/>
+        <location filename="../syncsettings.ui" line="254"/>
         <source>Stop synchronizing the data</source>
         <translation>Abgleich der Daten</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="243"/>
+        <location filename="../syncsettings.ui" line="279"/>
         <source>Sync</source>
         <translation>Synchronisieren</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="283"/>
         <source>Sync Now</source>
-        <translation>Jetzt synchronisieren</translation>
+        <translation type="vanished">Jetzt synchronisieren</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="359"/>
+        <location filename="../syncsettings.ui" line="319"/>
+        <source>Upload</source>
+        <translation type="unfinished">Hochladen</translation>
+    </message>
+    <message>
+        <location filename="../syncsettings.ui" line="348"/>
+        <source>Download</source>
+        <translation type="unfinished">Download</translation>
+    </message>
+    <message>
+        <location filename="../syncsettings.ui" line="377"/>
+        <source>Full Sync</source>
+        <translation type="unfinished">Vollsynchronisation</translation>
+    </message>
+    <message>
+        <location filename="../syncsettings.ui" line="453"/>
         <source>Sync status:</source>
         <translation>Synchronisierungsstatus</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="385"/>
+        <location filename="../syncsettings.ui" line="479"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="391"/>
+        <location filename="../syncsettings.ui" line="485"/>
         <source>Sync clipboard history</source>
         <translation>ZwischenablageName</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="398"/>
+        <location filename="../syncsettings.ui" line="492"/>
         <source>Sync snippets</source>
         <translation>Schnipsel synchronisieren</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="405"/>
+        <location filename="../syncsettings.ui" line="499"/>
         <source>Sync actions</source>
         <translation>Synchronisierungsaktionen</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="415"/>
+        <location filename="../syncsettings.ui" line="509"/>
         <source>Encryption</source>
         <translation>Verschlüsselung</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="427"/>
+        <location filename="../syncsettings.ui" line="521"/>
         <source>Encrypt data</source>
         <translation>Daten verschlüsseln</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="434"/>
+        <location filename="../syncsettings.ui" line="528"/>
         <source>Passphrase:</source>
         <translation>Passphrase:</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="447"/>
+        <location filename="../syncsettings.ui" line="541"/>
         <source>Sync Target Folder</source>
         <translation>Ziel-Ordner</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="463"/>
+        <location filename="../syncsettings.ui" line="557"/>
         <source>Browse</source>
         <translation>Durchsuchen</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="479"/>
+        <location filename="../syncsettings.ui" line="573"/>
         <source>Connected Clients</source>
         <translation>Verbundene Clients</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="485"/>
+        <location filename="../syncsettings.ui" line="579"/>
         <source>No connection</source>
         <translation>Keine Verbindung</translation>
     </message>
     <message>
-        <location filename="../syncsettings.ui" line="539"/>
         <source>Revoke Authentication</source>
-        <translation>Authentifizierung widerrufen</translation>
+        <translation type="vanished">Authentifizierung widerrufen</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="117"/>
-        <location filename="../syncsettings.cpp" line="217"/>
+        <location filename="../syncsettings.cpp" line="121"/>
+        <location filename="../syncsettings.cpp" line="201"/>
         <source>Last success</source>
         <translation type="unfinished">Letzter Erfolg</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="119"/>
+        <location filename="../syncsettings.cpp" line="123"/>
         <source>Not synchronized</source>
         <translation type="unfinished">Nicht synchronisiert</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="178"/>
         <source>This is the initial sync. Do you want to do full two-way sync for the snippets or do you want to sync them one way from the server. You can also disable the snippet sync.
 
 Note that if you choose to do one-way sync all your local snippets will be replaced with the content from the server.</source>
-        <translation>Dies ist die anfängliche Synchronisierung. Möchten Sie eine vollständige Zwei-Wege-Synchronisation für die Schnipsel durchführen oder möchten Sie sie nur über den Server synchronisieren. Sie können auch die Snippet-Synchronisierung deaktivieren.
+        <translation type="vanished">Dies ist die anfängliche Synchronisierung. Möchten Sie eine vollständige Zwei-Wege-Synchronisation für die Schnipsel durchführen oder möchten Sie sie nur über den Server synchronisieren. Sie können auch die Snippet-Synchronisierung deaktivieren.
 
 Beachten Sie, dass, wenn Sie sich für die Einweg-Synchronisierung entscheiden, alle Ihre lokalen Snippets durch den Inhalt vom Server ersetzt werden.</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="183"/>
         <source>Full sync</source>
-        <translation>Vollständige Synchronisation</translation>
+        <translation type="vanished">Vollständige Synchronisation</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="184"/>
         <source>One-way sync</source>
-        <translation>Einweg-Synchronisation</translation>
+        <translation type="vanished">Einweg-Synchronisation</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="185"/>
         <source>Disable snippet sync</source>
-        <translation>Snippet-Synchronisierung deaktivieren</translation>
+        <translation type="vanished">Snippet-Synchronisierung deaktivieren</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="227"/>
-        <location filename="../syncsettings.cpp" line="229"/>
+        <location filename="../syncsettings.cpp" line="66"/>
+        <source>Please authorize Rainclip to access your Google Drive on the browser.</source>
+        <translation type="unfinished">Bitte autorisieren Sie Rainclip, über den Browser auf Ihr Google Drive zuzugreifen.</translation>
+    </message>
+    <message>
+        <location filename="../syncsettings.cpp" line="74"/>
+        <source>Please choose the sync folder.</source>
+        <translation type="unfinished">Bitte wählen Sie den Synchronisierungsordner.</translation>
+    </message>
+    <message>
+        <location filename="../syncsettings.cpp" line="167"/>
+        <source>All your local content will be overwritten with the remote data. Are you sure you want to continue?</source>
+        <translation type="unfinished">Alle Ihre lokalen Inhalte werden mit den Remote-Daten überschrieben. Möchten Sie wirklich fortfahren?</translation>
+    </message>
+    <message>
+        <location filename="../syncsettings.cpp" line="172"/>
+        <source>The remote data will be overwritten with your local content. Are you sure you want to continue?</source>
+        <translation type="unfinished">Die Remote-Daten werden mit Ihren lokalen Inhalten überschrieben. Möchten Sie wirklich fortfahren?</translation>
+    </message>
+    <message>
+        <location filename="../syncsettings.cpp" line="213"/>
+        <location filename="../syncsettings.cpp" line="215"/>
         <source>Show log</source>
         <translation type="unfinished">Protokoll anzeigen</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="265"/>
+        <location filename="../syncsettings.cpp" line="251"/>
         <source>Failed to connect to the notification server.</source>
         <translation type="unfinished">Verbindung zum Server fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../syncsettings.cpp" line="267"/>
+        <location filename="../syncsettings.cpp" line="253"/>
         <source>No connection to the notification server.</source>
         <translation type="unfinished">Keine Verbindung zum Benachrichtigungsserver.</translation>
     </message>
